@@ -11,13 +11,4 @@
 ### Connect
 [![linkedin](https://user-images.githubusercontent.com/56078295/125137590-a3540280-e12a-11eb-91a6-4d99f185a51d.png)](https://www.linkedin.com/in/parv-narang-19b89a202/)
 
-
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ParvNarang&show_icons=true&theme=shades-of-purple&border_radius=15&title_color="blue"&custom_title=GitHub-Stats&style=center_m" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParvNarang&layout=compact&theme=shades-of-purple&border_radius=15&title_color="blue")](https://github.com/ParvNarang" />
-</p>
-
-
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ParvNarang&show_icons=true&theme=shades-of-purple&border_radius=15&title_color="blue"&custom_title=GitHub-Stats&style=center_me)[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParvNarang&layout=compact&theme=shades-of-purple&border_radius=15&title_color="blue")](https://github.com/ParvNarang) 
