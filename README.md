@@ -13,13 +13,13 @@
 
 
 
-<p>
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ParvNarang&show_icons=true&theme=shades-of-purple&border_radius=15&title_color="blue"&custom_title=GitHub-Stats&style=center_m" />
-</p>
+</a>
 
-<p>
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParvNarang&layout=compact&theme=shades-of-purple&border_radius=15&title_color="blue")](https://github.com/ParvNarang" />
-</p>
+</a>
 
 
 
