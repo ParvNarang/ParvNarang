@@ -4,6 +4,10 @@
 
 - 🔨 Hehe I like to tinker stuff.
 - 🤖 Mess around with things.
-- <img src="https://img.icons8.com/color/24/000000/music-robot.png"/> Make Robots.
-- ![icon_16](https://user-images.githubusercontent.com/56078295/125133881-24f46200-e124-11eb-9ff5-e9f617b4019d.png) Youtube Channel [Youtube Channel](https://www.youtube.com/channel/UCSLwxOBMuUXSYIHRtyDDYYw/featured)
-- 🖥 Learning Android Development.
+- ![icons8-robot-24](https://user-images.githubusercontent.com/56078295/125137230-e792d300-e129-11eb-8b7b-ed3e6d390741.png) Make Robots.
+- ![icon_16](https://user-images.githubusercontent.com/56078295/125133881-24f46200-e124-11eb-9ff5-e9f617b4019d.png) Youtube [Youtube Channel](https://www.youtube.com/channel/UCSLwxOBMuUXSYIHRtyDDYYw/featured).
+- 📱 Learning Android Development.                                                   
+
+### Connect
+[![linkedin](https://user-images.githubusercontent.com/56078295/125137590-a3540280-e12a-11eb-91a6-4d99f185a51d.png)](https://www.linkedin.com/in/parv-narang-19b89a202/)
+
