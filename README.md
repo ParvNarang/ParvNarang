@@ -3,7 +3,7 @@
 ### About
 
 - I don't know what I'm doing 🤷🏻‍♂️.
-- ![icon_16](https://user-images.githubusercontent.com/56078295/125133881-24f46200-e124-11eb-9ff5-e9f617b4019d.png) Youtube [Youtube Channel](https://www.youtube.com/channel/UCSLwxOBMuUXSYIHRtyDDYYw/featured).
+- Youtube [Youtube Channel](https://www.youtube.com/channel/UCSLwxOBMuUXSYIHRtyDDYYw/featured).
                                        
 
 ### Connect
