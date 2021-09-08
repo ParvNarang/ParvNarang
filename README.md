@@ -1,11 +1,7 @@
 ### Hello! 👋
 
-### About
-
-- I don't know what I'm doing 🤷🏻‍♂️.
-- Youtube [Youtube Channel](https://www.youtube.com/channel/UCSLwxOBMuUXSYIHRtyDDYYw/featured).
+Youtube [Youtube Channel](https://www.youtube.com/channel/UCSLwxOBMuUXSYIHRtyDDYYw/featured).
                                        
-
 ### Connect
 [![linkedin](https://user-images.githubusercontent.com/56078295/125137590-a3540280-e12a-11eb-91a6-4d99f185a51d.png)](https://www.linkedin.com/in/parv-narang-19b89a202/)
 
