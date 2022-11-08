@@ -4,4 +4,6 @@
 <a href="https://www.instagram.com/parvnarang10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCSLwxOBMuUXSYIHRtyDDYYw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>
 
-<img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=ParvNarang&&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=shades-of-purple&title_color=blue&border_radius=1" alt="Parv's Github Stats"><img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParvNarang&layout=compact&hide_border=true&hide=CSS,HTML&theme=shades-of-purple&title_color=blue&border_radius=1" alt="Parv's Github Stats">
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ParvNarang&theme=solarized_dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ParvNarang&layout=compact&hide_border=true&hide=CSS,HTML&theme=solarized-dark&title_color=blue&border_radius=5)
+![](https://github-readme-stats.vercel.app/api?username=ParvNarang&&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=solarized-dark&title_color=blue&border_radius=5)
