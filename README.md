@@ -1,9 +1,7 @@
-<p align="center">
-<a href="https://twitter.com/parvnarang10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
-<a href="https://in.linkedin.com/in/parv-narang-19b89a202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://www.instagram.com/parvnarang10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCSLwxOBMuUXSYIHRtyDDYYw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>
+&nbsp;[![Youtube Badge](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCSLwxOBMuUXSYIHRtyDDYYw)](https://www.youtube.com/channel/UCSLwxOBMuUXSYIHRtyDDYYw)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/parvnarang10)](https://twitter.com/parvnarang10)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://in.linkedin.com/in/parv-narang-19b89a202)](https://in.linkedin.com/in/parv-narang-19b89a202)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ParvNarang&theme=solarized_dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ParvNarang&layout=compact&hide_border=true&hide=CSS,HTML&theme=solarized-dark&title_color=blue&border_radius=5)
-![](https://github-readme-stats.vercel.app/api?username=ParvNarang&&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=solarized-dark&title_color=blue&border_radius=5)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ParvNarang&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ParvNarang&theme=solarized_dark)
